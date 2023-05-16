@@ -1,0 +1,4 @@
+﻿  lighting.cpp
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  lighting.vcxproj -> C:\Users\denie\Documents\GitHub\Rendering-Engine-Project\gt41samples\lighting\Debug\lighting.exe

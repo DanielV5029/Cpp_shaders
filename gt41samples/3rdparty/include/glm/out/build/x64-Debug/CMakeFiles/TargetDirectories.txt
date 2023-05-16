@@ -1,0 +1,2 @@
+C:/Users/denie/Documents/GitHub/C-/gt41samples/3rdparty/include/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/denie/Documents/GitHub/C-/gt41samples/3rdparty/include/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
